@@ -33,4 +33,5 @@ Understood how rule-based chatbots work using simple Python conditionals.
 
 ## 👨‍💻 Author
 **Fahim Shaikh**
-SY BTECH in Computer Science & Engineering
+
+- SY BTECH in Computer Science & Engineering
